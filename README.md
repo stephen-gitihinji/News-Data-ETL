@@ -45,7 +45,7 @@ Create and activate a python virtual environment
 #creating a python venv
 $ python -m venv <your_venv_name>
 #activating the venv
-$ source <your_venv_name>/bin/activate
+$ source <your_venv_path>/bin/activate
 ```
 ### 2. Project Cloning
 Clone the project from github once you are your python virtual environment and switch to the project directory.
